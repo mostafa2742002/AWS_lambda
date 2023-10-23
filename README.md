@@ -38,4 +38,5 @@ This repository hosts the codebase for an AWS Lambda function designed to scrape
 This Lambda function can be integrated into various data collection and processing pipelines. It provides a flexible and scalable solution for automating the retrieval and storage of data from the web.
 
 **The Full Project**
+
 [AWS_inctances.webm](https://drive.google.com/file/d/1ufzY7f95Qg_f6BWR8Il7ANedRVVXmg_m/view)
