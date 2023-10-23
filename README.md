@@ -36,3 +36,5 @@ This repository hosts the codebase for an AWS Lambda function designed to scrape
 **Usage**
 
 This Lambda function can be integrated into various data collection and processing pipelines. It provides a flexible and scalable solution for automating the retrieval and storage of data from the web.
+
+[![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
